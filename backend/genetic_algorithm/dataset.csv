@@ -1,0 +1,4 @@
+age,gender,feature1,feature2,albinism
+25,male,0.5,0.8,0
+32,female,0.3,0.6,1
+40,male,0.2,0.4,1
